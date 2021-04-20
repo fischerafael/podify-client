@@ -9,10 +9,11 @@ const PlayerFooter = () => {
             as="footer"
             style={{
                 width: '100%',
-                height: '40vh',
+                height: '30vh',
                 padding: '2rem',
                 flexDirection: 'column',
-                gap: '1rem'
+                gap: '1rem',
+                justifyContent: 'flex-end'
             }}
         >
             <ProgressBar />

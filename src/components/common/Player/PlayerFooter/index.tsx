@@ -10,7 +10,7 @@ const PlayerFooter = () => {
             style={{
                 width: '100%',
                 height: '40vh',
-                padding: '3rem',
+                padding: '2rem',
                 flexDirection: 'column',
                 gap: '1rem'
             }}

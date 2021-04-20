@@ -9,15 +9,16 @@ const PlayerBody = () => {
             style={{
                 width: '100%',
                 height: '45vh',
-                padding: '3rem'
+                padding: '2rem'
             }}
         >
             <FlexContainer
                 as="article"
                 style={{
-                    width: '100%',
-                    maxWidth: '12rem',
+                    maxWidth: '15rem',
+                    maxHeight: '15rem',
                     height: '100%',
+                    width: '100%',
                     border: '.1rem dashed #FFF',
                     borderRadius: '1rem'
                 }}
